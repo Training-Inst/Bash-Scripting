@@ -1,2 +1,3 @@
 w
 date
+du sh

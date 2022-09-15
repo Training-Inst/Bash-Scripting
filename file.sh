@@ -1,1 +1,2 @@
 whoami
+free -m
